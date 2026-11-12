@@ -1,0 +1,70 @@
+{
+  "liveMatches": [
+    {
+      "id": 1,
+      "team1": "India",
+      "team2": "Australia",
+      "team1Code": "in",
+      "team2Code": "au",
+      "status": "LIVE",
+      "streamUrl": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8"
+    },
+    {
+      "id": 2,
+      "team1": "England",
+      "team2": "Pakistan",
+      "team1Code": "gb",
+      "team2Code": "pk",
+      "status": "LIVE",
+      "streamUrl": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8"
+    },
+    {
+      "id": 3,
+      "team1": "South Africa",
+      "team2": "New Zealand",
+      "team1Code": "za",
+      "team2Code": "nz",
+      "status": "LIVE",
+      "streamUrl": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8"
+    },
+    {
+      "id": 4,
+      "team1": "West Indies",
+      "team2": "Sri Lanka",
+      "team1Code": "jm",
+      "team2Code": "lk",
+      "status": "LIVE",
+      "streamUrl": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8"
+    }
+  ],
+  "highlights": [
+    {
+      "id": 1,
+      "team1": "Bangladesh",
+      "team2": "Afghanistan",
+      "team1Code": "bd",
+      "team2Code": "af"
+    },
+    {
+      "id": 2,
+      "team1": "Ireland",
+      "team2": "Zimbabwe",
+      "team1Code": "ie",
+      "team2Code": "zw"
+    },
+    {
+      "id": 3,
+      "team1": "Netherlands",
+      "team2": "Scotland",
+      "team1Code": "nl",
+      "team2Code": "gb-sct"
+    },
+    {
+      "id": 4,
+      "team1": "UAE",
+      "team2": "Nepal",
+      "team1Code": "ae",
+      "team2Code": "np"
+    }
+  ]
+}
