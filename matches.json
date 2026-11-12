@@ -1,18 +1,22 @@
 {
-  "id": 1,
-  "team1": "India",
-  "team2": "England",
-  "team1Code": "in",
-  "team2Code": "gb",
-  "status": "LIVE",
-  "streamUrl": "https://your-actual-stream.m3u8"
-}
-{
-  "id": 2,
-  "team1": "Pakistan",
-  "team2": "England",
-  "team1Code": "pk",
-  "team2Code": "gb",
-  "status": "LIVE",
-  "streamUrl": "https://your-actual-stream.m3u8"
+  "liveMatches": [
+    {
+      "id": 1,
+      "team1": "Team A",
+      "team2": "Team B",
+      "team1Code": "code1",
+      "team2Code": "code2",
+      "status": "LIVE",
+      "streamUrl": "stream1.m3u8"
+    },
+    {
+      "id": 2,
+      "team1": "Team C",
+      "team2": "Team D",
+      "team1Code": "code3",
+      "team2Code": "code4",
+      "status": "LIVE",
+      "streamUrl": "stream2.m3u8"
+    }
+  ]
 }
