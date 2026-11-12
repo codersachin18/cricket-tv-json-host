@@ -7,3 +7,12 @@
   "status": "LIVE",
   "streamUrl": "https://your-actual-stream.m3u8"
 }
+{
+  "id": 2,
+  "team1": "Pakistan",
+  "team2": "England",
+  "team1Code": "pk",
+  "team2Code": "gb",
+  "status": "LIVE",
+  "streamUrl": "https://your-actual-stream.m3u8"
+}
