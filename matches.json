@@ -2,21 +2,42 @@
   "liveMatches": [
     {
       "id": 1,
-      "team1": "Team A",
-      "team2": "Team B",
-      "team1Code": "code1",
-      "team2Code": "code2",
+      "team1": "India",
+      "team2": "New Zealand",
+      "team1Code": "in",
+      "team2Code": "nz",
       "status": "LIVE",
-      "streamUrl": "stream1.m3u8"
+      "streamUrl": "https://002.cdnplayer.eu/live/csstream1/chunklist.m3u8?vidictid=207703235091&id=1001&pk=4f15b87be4d9c6632dbe0f7d6d01bdce6fe7d0b357c6adb7359b05ae504ce55988456a20dd5c6449ae4513f495c4ee035415b269417fbac331adef6d41adae12"
+    }
+  ],
+  "highlights": [
+    {
+      "id": 1,
+      "team1": "Bangladesh",
+      "team2": "Afghanistan",
+      "team1Code": "bd",
+      "team2Code": "af"
     },
     {
       "id": 2,
-      "team1": "Team C",
-      "team2": "Team D",
-      "team1Code": "code3",
-      "team2Code": "code4",
-      "status": "LIVE",
-      "streamUrl": "stream2.m3u8"
+      "team1": "Ireland",
+      "team2": "Zimbabwe",
+      "team1Code": "ie",
+      "team2Code": "zw"
+    },
+    {
+      "id": 3,
+      "team1": "Netherlands",
+      "team2": "Scotland",
+      "team1Code": "nl",
+      "team2Code": "gb-sct"
+    },
+    {
+      "id": 4,
+      "team1": "UAE",
+      "team2": "Nepal",
+      "team1Code": "ae",
+      "team2Code": "np"
     }
   ]
 }
